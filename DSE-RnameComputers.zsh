@@ -2,7 +2,7 @@
 
 # Author: Andrew W. Johnson
 # Date: 2020.05.05
-# Version 1.50
+# Version 1.51
 # Organization: Stony Brook Univeristy/DoIT
 
 # This script will rename the computers as they are enrolled into JAMF and then
@@ -126,7 +126,6 @@ myList=(took,D25PF0E5F8J8,0554320100,ac:87:a3:21:41:00,SINC \
 	lim04,C02Y80KEJ1G9,0555919400,38:f9:d3:07:4f:63,SINC \
 	lim05,C02Y80KSJ1G9,0555919500,38:f9:d3:07:4f:47,SINC \
 	lim06,C02Y80KFJ1G9,0555919600,38:f9:d3:07:55:07,SINC \
-	lim99,C02Y80N8J1G9,0555919000,38:f9:d3:07:53:da,SINC \
 	\
 	lim98,D25LF097F8J7,0553871500,68:5b:35:7f:af:7a,SINC \
 	\
